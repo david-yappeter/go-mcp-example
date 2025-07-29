@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "hello-world": {
+      "command": "sh",
+      "args": ["-c", "cd /home/author/go/go-mcp && go run main.go"],
+      "env": {
+        "THIS_IS_A_ENV": "ASJGJAJGIAJIiasgjiai"
+      }
+    }
+  }
+}
